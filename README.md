@@ -22,3 +22,4 @@ usePopcorn is a movie-centric application designed to enhance your movie-watchin
 ## Technologies Used
 * React
 * JavaScript
+* CSS
