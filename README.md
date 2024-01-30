@@ -15,7 +15,7 @@ usePopcorn is a movie-centric application designed to enhance your movie-watchin
 * Search: Enter the title of the movie you want to search for in the search bar.
 * Movie Overview: Click on a movie from the search results to view detailed information about the selected movie.
 * Rating: Rate the movie using the provided rating system.
-* Watchlist: Add movies to your watchlist by clicking the "Add to Watchlist" button.
+* Watchlist: Add movies to your watchlist by clicking the "Add to list" button.
 * Statistics: View statistics about your watchlist on the dashboard.
 * Delete: Remove movies from your watchlist by clicking the delete button next to each movie.
 
